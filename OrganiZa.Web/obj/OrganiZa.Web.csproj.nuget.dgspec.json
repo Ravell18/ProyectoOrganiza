@@ -1,0 +1,395 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Web\\OrganiZa.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Api\\OrganiZa.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Api\\OrganiZa.Api.csproj",
+        "projectName": "OrganiZa.Api",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Api\\OrganiZa.Api.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj"
+              },
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj"
+              },
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj",
+        "projectName": "OrganiZa.Application",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj",
+        "projectName": "OrganiZa.Domain",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj",
+        "projectName": "OrganiZa.Infraestructure",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Web\\OrganiZa.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Web\\OrganiZa.Web.csproj",
+        "projectName": "OrganiZa.Web",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Web\\OrganiZa.Web.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Api\\OrganiZa.Api.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Api\\OrganiZa.Api.csproj"
+              },
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj"
+              },
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj"
+              },
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Infraestructure\\OrganiZa.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

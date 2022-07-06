@@ -1,0 +1,37 @@
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.deps.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.deps.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.deps.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csprojAssemblyReference.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfoInputs.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.deps.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csproj.AssemblyReference.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfoInputs.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.AssemblyInfo.cs
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Domain\obj\Release\netcoreapp3.1\OrganiZa.Domain.pdb

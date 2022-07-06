@@ -1,0 +1,49 @@
+﻿@model AgregarModels
+@{
+}
+<h1>Informacion de facturacion</h1>
+<br />
+<br />
+<br />
+<form method="post">
+    @if (Model.Tutores.Any())
+    {
+
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Nombre Tutor</th>
+                    <th scope="col">Alumno</th>
+                    <th scope="col">Agregar Informacion de facturacion</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Tutores)
+                {
+
+                    <tr>
+                        <td scope="row">@Html.DisplayFor(m => item.Id)</td>
+                        <td>@Html.DisplayFor(m => item.NombreT)</td>
+                        <td>@Html.DisplayFor(m => item.Alumno)</td>
+                       
+
+                        <td class="text-center">
+                            <a asp-controller="Informacion" asp-action="Agregar" asp-route-id="@item.Id" class="btn btn-success">Agregar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <div class="mx-auto text-center">
+            <span class="text-danger">No se encontraron ningun registro</span>
+        </div>
+    }
+</form>
+

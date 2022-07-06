@@ -1,0 +1,56 @@
+﻿@page
+
+@model RegistroAModels
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="~/css/StyleSheet.css">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </div>
+
+    </div>
+</div>
+<div class="container">
+
+    <form id="signup" class="mt-3" method="post">
+
+        <div class="header">
+            <br>
+            <h3>Crear cuenta</h3>
+            <p>Bienvenido</p>
+
+        </div>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="sep"></div>
+
+            <div class="inputs">
+                @Html.EditorFor(model => model.Administrador.NombreAd, new { htmlAttributes = new { @class = "form-control", @placeholder = "Nombre", @autofocus_autocomplete = "off", @type = "text" } })
+
+                @Html.EditorFor(model => model.Usuario.Usuario, new { htmlAttributes = new { @class = "form-control", @placeholder = "E-mail", @autofocus_autocomplete = "off", @type = "email" } })
+
+                @Html.EditorFor(model => model.Usuario.Contraseña, new { htmlAttributes = new { @class = "form-control", @placeholder = "password", @autofocus_autocomplete = "off", @type = "password" } })
+
+                <div class="checkboxy">
+                    <input name="cecky" id="checky" value="1" type="checkbox" autocomplete="off" /><label class="terms">Acepto los terminos de uso</label>
+                </div>
+
+                <button id="submit" class="btn btn-success btn-block" type="submit">Registrar</button>
+            </div>
+        }
+
+    </form>
+
+</div>
+

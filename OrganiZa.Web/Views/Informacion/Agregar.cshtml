@@ -1,0 +1,46 @@
+﻿@model AgregarModels
+@{
+}
+<form class="mt-3" method="post">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="row">
+            <div class="col-md-12">
+
+                <input hidden asp-for="@Model.Tutor.Id" />
+                <input hidden asp-for="@Model.Tutor.Alumno" />
+                <br>
+                <br>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label>Nombre del Tutor</label>
+                    <input type="text" asp-for="Tutor.NombreT" class="form-control">
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label>Ficha de pago</label>
+                    @Html.EditorFor(model => model.FichaPago, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label>Tu ficha de pago generada automaticamente es copeala en su lugar correspondiente:</label>
+                    @Html.EditorFor(model => model.FichaPago2, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            </div>
+            <div class="col-md-12 text-center">
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success m-3">Guardar Cambios</button>
+                </div>
+            </div>
+        </div>
+    }
+</form>
+
+

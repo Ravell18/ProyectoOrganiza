@@ -1,0 +1,51 @@
+﻿@model OrganiZa.Domain.DTOs.TutorResponseDto
+@{
+   
+
+}
+<form class="mt-3" method="post">
+    <div class="row">
+        <div class="col-md-12">
+            <br>
+            <br>
+        </div>
+    </div>
+    <div class="row">
+
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Nombre del Tutor</label>
+                @Html.EditorFor(model => model.NombreT, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Nombre del Alumno</label>
+                @Html.EditorFor(model => model.Alumno, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Tipo de cuenta</label>
+                @Html.EditorFor(model => model.Rolusuario, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+            </div>
+        </div>
+        <div class="col-md-10">
+            <div class="form-group">
+                <a asp-controller="Home" asp-action="Home" class="btn btn-primary">Volver</a>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <a asp-controller="Tutor" asp-action="Update" class="btn btn-success">Actualizar</a>
+            </div>
+        </div>
+    </div>
+</form>
+<form class="mt-3" method="post">
+    <div class="col-md-12 text-center">
+        <div class="form-group">
+            <a asp-controller="Home" asp-action="LogOut" class="btn btn-danger m-3">Cerrar sesión</a>
+        </div>
+    </div>
+</form>

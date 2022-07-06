@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj",
+        "projectName": "OrganiZa.Application",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\OrganiZa.Application.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+                "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj",
+        "projectName": "OrganiZa.Domain",
+        "projectPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\OrganiZa.Domain.csproj",
+        "packagesPath": "C:\\Users\\joela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joela\\OneDrive\\Documentos\\Repositorios\\4AOrganiZa2\\OrganiZa.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

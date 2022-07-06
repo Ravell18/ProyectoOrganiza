@@ -1,0 +1,81 @@
+﻿@model CTutorModels
+@{
+
+
+}
+<div class="container">
+
+    <form id="signup" class="mt-3" method="post">
+
+
+        <div class="header">
+            <br>
+
+
+
+        </div>
+        <div class="col-md-12">
+            <br>
+            <br>
+            <br>
+        </div>
+        <div>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    Nombre del tutor
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Tutores.NombreT)
+                </dd>
+
+            </dl>
+            <dl class="row">
+                <dt class="col-sm-2">
+                    Nombre de la escuela
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Escuela.NombreE)
+                </dd>
+
+            </dl>
+            <dl class="row">
+                <dt class="col-sm-2">
+                    Modo de pago
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Escuela.ModoP)
+                </dd>
+
+            </dl>
+        </div>
+        @if (Model.calendarios.Any())
+        {
+
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">Fecha de pago</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.calendarios)
+                    {
+
+                        <tr>
+                            <td>@Html.DisplayFor(m => item.MesPago)</td>
+
+
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        }
+
+
+    </form>
+
+</div>

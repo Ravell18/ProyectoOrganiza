@@ -1,0 +1,195 @@
+﻿@model CalendarioModels
+@{
+
+
+}
+
+@if (Model.Escuelas == null)
+{
+    <div class="mx-auto text-center">
+        <span class="text-danger">No se encontraron ningun registro</span>
+    </div>
+}
+else
+{
+
+    <div class="container">
+
+        <form id="signup" class="mt-3" method="post">
+
+            <div class="header">
+                <br>
+
+
+
+            </div>
+            <div class="col-md-12">
+                <br>
+                <br>
+                <br>
+            </div>
+            <div>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        Nombre de la escuela
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Escuelas.NombreE)
+                    </dd>
+
+                </dl>
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        Modo de pago
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Escuelas.ModoP)
+                    </dd>
+
+                </dl>
+            </div>
+            @if (Model.Escuelas.ModoP == "Cuatrimestral")
+            {
+                <div class="col-md-12">
+                    <h3>Agregue tres fechas</h3>
+                    <br>
+                    <br>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="sep"></div>
+
+
+                    <div class="inputs">
+                        @Html.EditorFor(model => model.Calendario.MesPago, new { htmlAttributes = new { @class = "form-control", @placeholder = "Mes", @autofocus_autocomplete = "off", @type = "month" } })
+
+
+                        <div class="col-md-12">
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+                        <button id="submit" class="btn btn-success btn-block" type="submit">Agregar</button>
+                    </div>
+                }
+            }
+            else if (Model.Escuelas.ModoP == "Anual")
+            {
+                <div class="col-md-12">
+                    <h3>Agregue una fecha</h3>
+                    <br>
+                    <br>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="sep"></div>
+
+
+                    <div class="inputs">
+                        @Html.EditorFor(model => model.Calendario.MesPago, new { htmlAttributes = new { @class = "form-control", @placeholder = "Mes", @autofocus_autocomplete = "off", @type = "month" } })
+
+
+                        <div class="col-md-12">
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+                        <button id="submit" class="btn btn-success btn-block" type="submit">Agregar</button>
+                    </div>
+                }
+
+            }
+            else if (Model.Escuelas.ModoP == "Mensual")
+            {
+                <div class="col-md-12">
+                    <h3>Agregue doce fechas</h3>
+                    <br>
+                    <br>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="sep"></div>
+
+
+                    <div class="inputs">
+                        @Html.EditorFor(model => model.Calendario.MesPago, new { htmlAttributes = new { @class = "form-control", @placeholder = "Mes", @autofocus_autocomplete = "off", @type = "month" } })
+
+
+                        <div class="col-md-12">
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+                        <button id="submit" class="btn btn-success btn-block" type="submit">Agregar</button>
+                    </div>
+                }
+
+            }
+            else if (Model.Escuelas.ModoP == "Bimestral")
+            {
+                <div class="col-md-12">
+                    <h3>Agregue seis fechas</h3>
+                    <br>
+                    <br>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="sep"></div>
+
+
+                    <div class="inputs">
+                        @Html.EditorFor(model => model.Calendario.MesPago, new { htmlAttributes = new { @class = "form-control", @placeholder = "Mes", @autofocus_autocomplete = "off", @type = "month" } })
+
+
+                        <div class="col-md-12">
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+                        <button id="submit" class="btn btn-success btn-block" type="submit">Agregar</button>
+                    </div>
+                }
+
+            }
+            else if (Model.Escuelas.ModoP == "Semestral")
+            {
+                <div class="col-md-12">
+                    <h3>Agregue dos fechas</h3>
+                    <br>
+                    <br>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="sep"></div>
+
+
+                    <div class="inputs">
+                        @Html.EditorFor(model => model.Calendario.MesPago, new { htmlAttributes = new { @class = "form-control", @placeholder = "Mes", @autofocus_autocomplete = "off", @type = "month" } })
+                        <div class="col-md-12">
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+                        <button id="submit" class="btn btn--3 btn-success btn-block" type="submit">Agregar</button>
+                    </div>
+                }
+              
+            }
+
+
+
+        </form>
+
+    </div>
+}

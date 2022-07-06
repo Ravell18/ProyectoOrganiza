@@ -1,0 +1,109 @@
+﻿@model RegistroEModels
+@{
+
+}
+<html>
+
+<head>
+
+
+
+</head>
+
+<body>
+
+    <form class="mt-3" method="post">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <h1>@Model.Escuelas2.NombreE</h1>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>Colegiatura</label>
+                    @Html.EditorFor(model => model.Escuelas2.Colegiatura, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>Modo de pago</label>
+                    @Html.EditorFor(model => model.Escuelas2.ModoP, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>Codigo del administrador que creo la escuela</label>
+                    @Html.EditorFor(model => model.Escuelas2.IdA, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>Codigo de la escuela</label>
+                    @Html.EditorFor(model => model.Escuelas2.Id, new { htmlAttributes = new { @class = "form-control", disabled = true } })
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+           
+            <div class="col-md-12 text-center">
+                <div class="form-group">
+                    <a asp-controller="Administrador" asp-action="Menu" class="btn btn-primary m-3">Volver</a>
+                </div>
+            </div>
+
+        </div>
+</form>
+
+</body>
+
+</html>

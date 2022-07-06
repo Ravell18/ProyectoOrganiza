@@ -1,0 +1,50 @@
+﻿@model RecordatoriosModels
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Recordatorios</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Usuarios.Usuario)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Usuarios.Usuario)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Usuarios.IdT)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Usuarios.IdT)
+        </dd>
+    </dl>
+</div>
+<form class="mt-3" method="post">
+
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <br>
+            <br>
+            @Html.EditorFor(model => model.Asunto, new { htmlAttributes = new { @class = "form-control", @placeholder = "Asunto", @autofocus_autocomplete = "off"} })
+            <br>
+            <br>
+            <textarea class="form-control" asp-for="Mensaje" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <br>
+            <br>
+            <div class="col-md-12 text-center">
+                <div class="form-group">
+                    <button id="submit" class="btn btn-success" type="submit">Enviar</button>
+
+                </div>
+            </div>
+        }
+    </div>
+    
+</form>

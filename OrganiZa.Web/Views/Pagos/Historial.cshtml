@@ -1,0 +1,60 @@
+﻿@model HistorialModels
+@{
+}
+<h1>Historial</h1>
+<br />
+<br />
+<br />
+<form method="post">
+    @if (Model.Pagos == null)
+    {
+        <div class="mx-auto text-center">
+            <span class="text-danger">No se encontraron ningun registro</span>
+        </div>
+
+
+    }
+    else
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Nombre Tutor</th>
+                    <th scope="col">Alumno</th>
+                    <th scope="col">Mes pagado</th>
+                    <th scope="col">Fecha</th>
+                    <th scope="col">Status del pago</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Pagos)
+                {
+
+                    <tr>
+                        <td scope="row">@Html.DisplayFor(m => item.Id)</td>
+                        <td>@Html.DisplayFor(m => item.NombreT)</td>
+                        <td>@Html.DisplayFor(m => item.Alumno)</td>
+                        <th>@Html.DisplayFor(m => item.Mespagado)</th>
+                        <th>@Html.DisplayFor(m => item.Fecha)</th>
+                        @if (item.Statusdepago == "Aprobado")
+
+                        {
+                            <th class="bg-success">@Html.DisplayFor(m => item.Statusdepago)</th>
+
+                        }
+                        else
+                        {
+                            <th class="bg-danger">No aprobado</th>
+
+                        }
+
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    }
+</form>

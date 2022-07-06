@@ -1,0 +1,248 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OrganiZa.Web</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/css/main1.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+
+            @if (@Model.Usuario == null)
+            {
+                <section class="full-box cover dashboard-sideBar">
+                    <div class="full-box dashboard-sideBar-bg btn-menu-dashboard"></div>
+                    <div class="full-box dashboard-sideBar-ct">
+                        <!--SideBar Title -->
+                        <div class="full-box text-uppercase text-center text-titles dashboard-sideBar-title">
+                            OrganiZa <i class="zmdi zmdi-close btn-menu-dashboard visible-xs"></i>
+                        </div>
+                        <!-- SideBar User info -->
+                        <div class="full-box dashboard-sideBar-UserInfo">
+                            <figure class="full-box">
+                                <img src="~/assets/img/NohayUsuario.jpg" alt="UserIcon">
+                                <figcaption class="text-center text-titles">
+                                    <br />
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
+                                        Iniciar Sesion
+                                    </a>
+                                    <br />
+                                </figcaption>
+                            </figure>
+
+                        </div>
+
+                    </div>
+                </section>
+
+            }
+            else if (@Model.Rolusuario == "Tutor")
+            {
+                <section class="full-box cover dashboard-sideBar">
+                    <div class="full-box dashboard-sideBar-bg btn-menu-dashboard"></div>
+                    <div class="full-box dashboard-sideBar-ct">
+                        <!--SideBar Title -->
+                        <div class="full-box text-uppercase text-center text-titles dashboard-sideBar-title">
+                            OrganiZa <i class="zmdi zmdi-close btn-menu-dashboard visible-xs"></i>
+                        </div>
+                        <!-- SideBar User info -->
+                        <div class="full-box dashboard-sideBar-UserInfo">
+                            <figure class="full-box">
+                                <img src="~/assets/img/Tutor.jpg" alt="UserIcon">
+                                <figcaption class="text-center text-titles">
+                                    <br />
+                                    <br />
+                                    @Model.Usuario
+                                    <br />
+                                    <br />
+                                    @Model.Rolusuario
+                                    <br />
+                                </figcaption>
+                            </figure>
+                            <ul class="full-box list-unstyled text-center">
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Tutor" asp-action="Details">
+                                        <i class="zmdi zmdi-settings"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="LogOut">
+                                        <i class="zmdi zmdi-power"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- SideBar Menu -->
+                        <ul class="list-unstyled full-box dashboard-sideBar-Menu">
+                            <li>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Tutor" asp-action="Menu">
+                                    <i class="zmdi zmdi-view-dashboard zmdi-hc-fw"></i> Menu
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+
+            }
+            else
+            {
+                <section class="full-box cover dashboard-sideBar">
+                    <div class="full-box dashboard-sideBar-bg btn-menu-dashboard"></div>
+                    <div class="full-box dashboard-sideBar-ct">
+                        <!--SideBar Title -->
+                        <div class="full-box text-uppercase text-center text-titles dashboard-sideBar-title">
+                            OrganiZa <i class="zmdi zmdi-close btn-menu-dashboard visible-xs"></i>
+                        </div>
+                        <!-- SideBar User info -->
+                        <div class="full-box dashboard-sideBar-UserInfo">
+                            <figure class="full-box">
+                                <img src="~/assets/img/Administrador.png" alt="UserIcon">
+                                <figcaption class="text-center text-titles">
+                                    <br />
+                                    <br />
+                                    @Model.Usuario
+                                    <br />
+                                    <br />
+                                    @Model.Rolusuario
+                                    <br />
+                                </figcaption>
+                            </figure>
+                            <ul class="full-box list-unstyled text-center">
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Administrador" asp-action="Details">
+                                        <i class="zmdi zmdi-settings"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="LogOut">
+                                        <i class="zmdi zmdi-power"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- SideBar Menu -->
+                        <ul class="list-unstyled full-box dashboard-sideBar-Menu">
+                            <li>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Administrador" asp-action="Menu">
+                                    <i class="zmdi zmdi-view-dashboard zmdi-hc-fw"></i> Menu
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Recordatorios" asp-action="Index">
+                                    <i class="zmdi zmdi-calendar-note zmdi-hc-fw"></i> Recordatorios
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Escuela" asp-action="Create">
+                                    <i class="zmdi zmdi-shield-check zmdi-hc-fw"></i> Registrar Escuela
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Informacion" asp-action="Create">
+                                    <i class="zmdi zmdi-file-add zmdi-hc-fw"></i> Agregar Datos de pago
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+            }
+
+        </div>
+    </header>
+    <section class="full-box dashboard-contentPage">
+        <!-- NavBar -->
+        <nav class="full-box dashboard-Navbar">
+            <ul class="full-box list-unstyled text-right">
+                <li class="pull-left">
+                    <a href="#!" class="btn-menu-dashboard"><i class="zmdi zmdi-more-vert"></i></a>
+                </li>
+                <li>
+                    <a href="#!" class="btn-Notifications-area">
+                        <i class="zmdi zmdi-notifications-none"></i>
+                        <span class="badge">2</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#!" class="btn-modal-help">
+                        <i class="zmdi zmdi-help-outline"></i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </section>
+    <section class="full-box Notifications-area">
+        <div class="full-box Notifications-bg btn-Notifications-area"></div>
+        <div class="full-box Notifications-body">
+            <div class="Notifications-body-title text-titles text-center">
+                Notificaciones <i class="zmdi zmdi-close btn-Notifications-area"></i>
+            </div>
+            <div class="list-group">
+                <div class="list-group-item">
+                    <div class="row-action-primary">
+                        <i class="zmdi zmdi-alert-octagon"></i>
+                    </div>
+                    <div class="row-content">
+                        <br />
+                        <div class="least-content">2s</div>
+                        <h4 class="list-group-item-heading">Bienvenido</h4>
+                        <p class="list-group-item-text">Hola! usuario esperamos que su experiencia con nosotros sea satisfactoria</p>
+                    </div>
+                </div>
+                <div class="list-group-separator"></div>
+                <div class="list-group-item">
+                    <div class="row-action-primary">
+                        <i class="zmdi zmdi-help"></i>
+                    </div>
+                    <div class="row-content">
+                        <br />
+                        <div class="least-content">3s</div>
+                        <h4 class="list-group-item-heading">OrganiZa</h4>
+                        <p class="list-group-item-text">Nustro objetivo es lograr que nuestros usuarios disfruten de la plataforma</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <div class="modal fade" tabindex="-1" role="dialog" id="Dialog-Help">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Help</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Si tienes alguna duda sobre el funcionamiento de esta aplicacion web, favor de comunicarse al siguiente correo electronico
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary btn-raised" data-dismiss="modal"><i class="zmdi zmdi-thumb-up"></i> Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    @RenderSection("Modals", required: false)
+    @RenderSection("Scripts", required: false)
+    <!--====== Scripts -->
+    <script src="~/js/jquery-3.1.1.min.js"></script>
+    <script src="~/js/sweetalert2.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/material.min.js"></script>
+    <script src="~/js/ripples.min.js"></script>
+    <script src="~/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/js/main2.js"></script>
+    <script>
+        $.material.init();
+    </script>
+</body>
+</html>

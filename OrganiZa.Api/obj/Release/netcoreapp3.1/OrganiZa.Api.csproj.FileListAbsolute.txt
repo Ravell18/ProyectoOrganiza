@@ -1,0 +1,608 @@
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.exe
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.deps.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.dev.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.Manifest.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.xml
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.genruntimeconfig.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.exe
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.deps.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.dev.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.Manifest.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.xml
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.genruntimeconfig.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.exe
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.deps.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.dev.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csprojAssemblyReference.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfoInputs.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CoreCompileInputs.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.RazorTargetAssemblyInfo.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CopyComplete
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.Manifest.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.xml
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.genruntimeconfig.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.StaticWebAssets.xml
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.exe
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.deps.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.runtimeconfig.dev.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\bin\Release\netcoreapp3.1\OrganiZa.Infraestructure.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.AssemblyReference.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfoInputs.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.AssemblyInfo.cs
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\staticwebassets\OrganiZa.Api.StaticWebAssets.Manifest.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.RazorTargetAssemblyInfo.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.csproj.CopyComplete
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Api\obj\Release\netcoreapp3.1\OrganiZa.Api.genruntimeconfig.cache

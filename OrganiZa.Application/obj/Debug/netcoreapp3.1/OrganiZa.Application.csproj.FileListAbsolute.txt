@@ -1,0 +1,181 @@
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\4A-OrganiZa\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Desktop\Tareas\Cuarto Cuatrimestre\Aplicaciones web\Repositorio\Nuevo\4A-OrganiZa8\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\Nueva carpeta (4)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\quepedo\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta (3)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\Missael Ching R&M\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa21\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\PROYECTO\Nueva carpeta (2)\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\Documents\UTM\Repositorios\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csprojAssemblyReference.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\MissaelChingRM\Desktop\Nueva carpeta\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.deps.json
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Application.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\bin\Debug\netcoreapp3.1\OrganiZa.Domain.pdb
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.AssemblyReference.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfoInputs.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.AssemblyInfo.cs
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.csproj.CopyComplete
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.dll
+C:\Users\joela\OneDrive\Documentos\Repositorios\4AOrganiZa2\OrganiZa.Application\obj\Debug\netcoreapp3.1\OrganiZa.Application.pdb

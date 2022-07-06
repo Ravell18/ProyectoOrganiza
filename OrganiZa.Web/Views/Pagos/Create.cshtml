@@ -1,0 +1,136 @@
+﻿
+@model PagoModels
+@{ 
+
+}
+
+<link rel="stylesheet" href="~/css/StyleSheet1.css">
+<script src="~/js/file.js"></script>
+
+<body>
+    <div hidden id="Ficha">
+        <h1 class="center"> Informacion </h1>
+        <br />
+        <br />
+        <br />
+        <br />
+        <hr />
+        <label>Nombre del tutor</label>
+        <input type="text" asp-for="@Model.NombreT" />
+        <br />
+        <br />
+        <hr />
+
+        <br />
+        <label>Nombre del Alumno</label>
+        <input type="text" asp-for="@Model.Alumno" />
+        <br />
+        <hr />
+        <br />
+        <br />
+        <label>La ficha de pago generada es</label>
+        <input type="text" asp-for="@Model.FichaPago" />
+        <br />
+        <hr />
+        <br />
+        <br />
+        <br />
+        <hr />
+        <br />
+        <br />
+
+    </div>
+
+    <form method="post" enctype="multipart/form-data">
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <br>
+                    <h1>Realiza un Pago</h1>
+                    <br>
+
+                </div>
+                <div class="col-md-4">
+                    <br>
+                    <h1>Subir comprobante</h1>
+                    <br>
+
+                </div>
+            </div>
+            <div class="row col-md-12">
+                <div class="col-md-6">
+                    <br>
+                    <h5>Los detalles del pago son:</h5>
+                    <br>
+                    <div class="card border-success mb-3" style="max-width: 30rem;">
+                        <div class="card-body text-primary">
+                            @Html.EditorFor(model => model.FichaPago, new { htmlAttributes = new { @class = "form-control bg-success", @autofocus_autocomplete = "off", @type = "text" } })
+                        </div>
+                        <div class="text-center">
+                            @Html.ValidationMessageFor(model => model.pagos.Fichapago, "", new { @class = "text-danger" })
+                        </div>
+                        <br>
+                        <br>
+                    </div>
+                    <br>
+                    <br>
+
+                    <div class="card border-success mb-3" style="max-width: 30rem;">
+                        <div class="card-body text-primary">
+                            <br>
+                            <h4 class="card-title text-center">Mes a Pagar</h4>
+                            <br>
+                            <p>Escriba el mes que desea Pagar deacuerdo a su calendario de pagos</p>
+                            <br>
+                            <div class="text-center">
+                                <input asp-for="@Model.pagos.Mespagado" />
+                            </div>
+                            @Html.ValidationMessageFor(model => model.pagos.Mespagado, "", new { @class = "text-danger" })
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <script class="jsbin" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+                            <div class="file-upload">
+                                <br>
+                                <button class="file-upload-btn" type="button" onclick="$('.file-upload-input').trigger( 'click' )">Añade una imagen</button>
+                                <br>
+
+                                <div class="image-upload-wrap">
+                                    <input class="file-upload-input" asp-for="@Model.file" type='file' id="upload" onchange="readURL(this)" />
+                                    <div class="drag-text">
+                                        <h3>Sube o Arrastra tu archivo aqui</h3>
+                                    </div>
+                                </div>
+                                <div class="file-upload-content">
+                                    <img class="file-upload-image" id="img" src="#" alt="your image" />
+                                    <div class="image-title-wrap">
+                                        <button type="button" onclick="removeUpload()" class="remove-image">Remove <span class="image-title">Uploaded Image</span></button>
+                                    </div>
+                                </div>
+                                @Html.ValidationMessageFor(model => model.file, "", new { @class = "text-danger" })
+
+                                <br>
+
+
+                            </div>
+                            <div class=text-center>
+                                <button type="submit" class="btn btn-primary">Realizar Pago</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <br>
+        </div>
+    </form>
+
+
+</body>

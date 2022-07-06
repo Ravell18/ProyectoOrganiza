@@ -1,0 +1,78 @@
+﻿@model MenuAModel
+@{
+}
+
+
+
+<div class="row">
+    <div class="container-fluid">
+        <div class="col-md-12">
+            <br>
+            <br>
+            <br>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top img-thumbnail imgThumbnail" src="~/images/Pagos.jpg"
+                     alt="" asp-append-version="true">
+                <div class="card-body">
+                    <h5 class="card-title">Comprobar Pagos</h5>
+                    <br />
+                    <p class="card-text">Esta opcion permite gestionar, comprobar y aprobar </p>
+                    <div class="text-center">
+                        <br />
+                        <a asp-controller="Pagos" asp-action="Comprobacion" class="btn btn-primary text-center">Comprobar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top img-thumbnail imgThumbnail" src="~/images/Calendario.jpeg"
+                     alt="" asp-append-version="true">
+                <div class="card-body">
+                    <h5 class="card-title">Calendario de Pagos</h5>
+                    <br />
+                    <p class="card-text">Esta opcion permite agregar fechas al calendario de pagos</p>
+           
+                    <div class="text-center">
+                        <br />
+                        <a asp-controller="Calendario" asp-action="Generar" class="btn btn-primary text-center">Generar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top img-thumbnail imgThumbnail" src="~/images/Escuela.png"
+                     alt="" asp-append-version="true">
+                <div class="card-body">
+                    <h5 class="card-title">Detalles de la Escuela</h5>
+                    <br />
+                    <p class="card-text">Esta opcion permite visualizar la escuela que creaste </p>
+                    <div class="text-center">
+                        <br />
+                        <a asp-controller="Escuela" asp-action="Details" class="btn btn-primary">Visualizar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-1">
+           <br />
+        </div>
+    </div>
+
+
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <br>
+        <br>
+    </div>
+</div>
